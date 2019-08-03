@@ -1,0 +1,5 @@
+C:\Users\oszto\source\repos\SmartRockets\Vector\bin\Release\Vector.dll
+C:\Users\oszto\source\repos\SmartRockets\Vector\bin\Release\Vector.pdb
+C:\Users\oszto\source\repos\SmartRockets\Vector\obj\Release\Vector.csproj.CoreCompileInputs.cache
+C:\Users\oszto\source\repos\SmartRockets\Vector\obj\Release\Vector.dll
+C:\Users\oszto\source\repos\SmartRockets\Vector\obj\Release\Vector.pdb

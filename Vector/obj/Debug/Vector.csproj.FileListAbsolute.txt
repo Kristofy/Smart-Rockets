@@ -1,0 +1,6 @@
+C:\Users\oszto\source\repos\SmartRockets\Vector\bin\Debug\Vector.dll
+C:\Users\oszto\source\repos\SmartRockets\Vector\bin\Debug\Vector.pdb
+C:\Users\oszto\source\repos\SmartRockets\Vector\obj\Debug\Vector.csprojAssemblyReference.cache
+C:\Users\oszto\source\repos\SmartRockets\Vector\obj\Debug\Vector.csproj.CoreCompileInputs.cache
+C:\Users\oszto\source\repos\SmartRockets\Vector\obj\Debug\Vector.dll
+C:\Users\oszto\source\repos\SmartRockets\Vector\obj\Debug\Vector.pdb

@@ -1,0 +1,13 @@
+C:\Users\oszto\source\repos\SmartRockets\obj\Debug\SmartRockets.csprojAssemblyReference.cache
+C:\Users\oszto\source\repos\SmartRockets\obj\Debug\SmartRockets.Form1.resources
+C:\Users\oszto\source\repos\SmartRockets\obj\Debug\SmartRockets.Properties.Resources.resources
+C:\Users\oszto\source\repos\SmartRockets\obj\Debug\SmartRockets.csproj.GenerateResource.cache
+C:\Users\oszto\source\repos\SmartRockets\obj\Debug\SmartRockets.csproj.CoreCompileInputs.cache
+C:\Users\oszto\source\repos\SmartRockets\bin\Debug\SmartRockets.exe.config
+C:\Users\oszto\source\repos\SmartRockets\bin\Debug\SmartRockets.exe
+C:\Users\oszto\source\repos\SmartRockets\bin\Debug\SmartRockets.pdb
+C:\Users\oszto\source\repos\SmartRockets\bin\Debug\Vector.dll
+C:\Users\oszto\source\repos\SmartRockets\bin\Debug\Vector.pdb
+C:\Users\oszto\source\repos\SmartRockets\obj\Debug\SmartRockets.csproj.CopyComplete
+C:\Users\oszto\source\repos\SmartRockets\obj\Debug\SmartRockets.exe
+C:\Users\oszto\source\repos\SmartRockets\obj\Debug\SmartRockets.pdb
